@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![A cover image that says "Hi I'm Girwar" in the center, On top left, there is my logo]
+
 <!--
 **girwarkishor/girwarkishor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
