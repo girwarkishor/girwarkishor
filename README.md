@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![A cover image that says "Hi I'm Girwar" in the center, On top left, there is my logo](https://res.cloudinary.com/dzeluzvqm/image/upload/v1595765353/Banner_rupy6a.png)
+![A cover image that says "Hi I'm Girwar" in the center, On top left, there is my logo](https://raw.githubusercontent.com/girwarkishor/girwarkishor/master/Banner.png)
 
 ## Girwar Kishor Chandravanshi 😊
 
